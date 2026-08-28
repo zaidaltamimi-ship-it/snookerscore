@@ -1,0 +1,16 @@
+{
+  "appId": "app.snookerscore.club",
+  "appName": "Snooker Score",
+  "webDir": "dist",
+  "android": {
+    "backgroundColor": "#082018",
+    "allowMixedContent": false
+  },
+  "plugins": {
+    "SplashScreen": {
+      "launchAutoHide": false,
+      "backgroundColor": "#082018",
+      "androidSplashResourceName": "splash"
+    }
+  }
+}
