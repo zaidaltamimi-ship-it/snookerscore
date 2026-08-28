@@ -1,4 +1,4 @@
-# Snooker Score
+# Snooker Scores
 
 Snooker scoreboard for clubs and players. Live frame scoring, automatic break
 tracking, a fullscreen TV scoreboard, and per-player statistics.
